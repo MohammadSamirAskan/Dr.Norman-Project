@@ -29,3 +29,32 @@
     margin:0 auto;
     
 }
+
+#info-title{
+    text-align: center;
+    margin:50px;
+}
+
+#tribute-info ul li{
+   margin-top:20px;
+    font-size:15px;
+
+}
+
+#tribute-info {
+    display:block;
+    margin-left:10%;
+    margin-right:10%;
+}
+
+
+.year{
+    font-size: large;
+    font-weight: 600;
+}
+
+.link-pragraph{
+    text-align:center;
+    font-weight: bolder;
+    margin-top:50px;
+}
