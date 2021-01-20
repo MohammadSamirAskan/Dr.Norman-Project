@@ -1,9 +1,3 @@
-img {
-    width: 80%;
-    display: block;
-    max-width: 600px;
-    margin: auto;
-}
 
 
 #main{
@@ -19,4 +13,19 @@ img {
     padding-top:30px;
 }
 
-p
+#img-div{
+    width:92%;
+    height:100%;
+    padding:2%;
+    margin:2%;
+    background:white;
+    text-align:center;
+}
+
+#img-div #image{
+    width:100%;
+    max-width:1200px;
+    display:block;
+    margin:0 auto;
+    
+}
