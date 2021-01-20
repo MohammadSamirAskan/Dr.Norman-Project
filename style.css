@@ -4,3 +4,11 @@ img {
     max-width: 600px;
     margin: auto;
 }
+
+
+#main{
+    background:rgb(240, 240, 240);
+    margin-top:30px;
+    margin:10px;
+   
+}
