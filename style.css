@@ -1,0 +1,89 @@
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#main{
+    background:rgb(200, 200, 200);
+    margin-top:30px;
+    margin:0px; 
+}
+
+
+#title{
+    text-align:center;
+    color: #252525;
+    text-shadow: 0px 0px 20px gray;
+    padding-top:30px;
+}
+
+#img-div{
+    width:90%;
+    height:100%;
+    margin:5%;
+    background:white;
+    text-align:center;
+    box-shadow: 0px 0px 10px 10px #bbbbbb;
+    border-radius: 10px;
+}
+
+#img-div #image{
+    width:100%;
+    max-width:1200px;
+    display:block;
+    margin:0 auto;
+    border-radius: 10px 10px 0px 0px;
+}
+
+#img-div #img-caption {
+    padding: 4px;
+}
+
+#info-title{
+    text-align: center;
+    margin:10px;
+}
+
+#tribute-info ul li{
+   margin-top:20px;
+    font-size:15px;
+    list-style-type: none; /* add better style for years */
+}
+
+#tribute-info {
+    background-color: white;
+    width: 86%;
+    margin-left: 5%;
+    padding: 2%;
+    display:block;
+    text-align: left;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 10px #bbbbbb;
+}
+
+#quote {
+    width: 80%;
+    margin: 5%;
+    padding: 5%;
+    background-color: white;
+    display: block;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 10px #bbbbbb;
+}
+
+.year{
+    font-size: large;
+    font-weight: 600;
+}
+
+.link-pragraph{
+    text-align:center;
+    font-weight: bolder;
+    padding:50px;
+}
+
+.link-pragraph a {
+    color: black;
+    font-weight: bolder;
+}
